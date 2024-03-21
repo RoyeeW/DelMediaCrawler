@@ -88,7 +88,7 @@
 打赏时您可以备注名称，我会将您添加至打赏列表中。
 
 ## 运行报错常见问题Q&A
-> 遇到问题先自行搜索解决下，现在AI很火，用ChatGPT大多情况下能解决你的问题 [免费的ChatGPT](https://sider.ai/invited?c=8e03db1a973401fdf114ed9cf9f8c183)  
+> 遇到问题先自行搜索解决下，现在AI很火，用ChatGPT大多情况下能解决你的问题 [免费的ChatGPT](https://sider.ai/invited?c=908d6b4355c9c63d021e6f3b651304d4)  
 
 ➡️➡️➡️ [常见问题](docs/常见问题.md)
 
